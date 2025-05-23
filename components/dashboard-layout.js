@@ -69,6 +69,11 @@ export default function DashboardLayout({ children }) {
       icon: FileQuestionIcon,
     },
     {
+      name: 'Posters',
+      href: '/posters',
+      icon: Menu,
+    },
+    {
       name: 'Users',
       href: '/users',
       icon: Users,
